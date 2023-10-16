@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6a194be6-392a-4035-841e-559fddb24f6a" name="Changes" comment="" />
+    <list default="true" id="6a194be6-392a-4035-841e-559fddb24f6a" name="Changes" comment="123" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -127,8 +127,23 @@
       <workItem from="1696945295809" duration="8095000" />
       <workItem from="1697034467447" duration="1587000" />
       <workItem from="1697091563294" duration="5579000" />
-      <workItem from="1697458372323" duration="3550000" />
+      <workItem from="1697458372323" duration="3991000" />
     </task>
+    <task id="LOCAL-00001" summary="123">
+      <created>1697470605935</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1697470605935</updated>
+    </task>
+    <task id="LOCAL-00002" summary="123">
+      <created>1697470831614</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1697470831614</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -161,6 +176,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="123" />
+    <option name="LAST_COMMIT_MESSAGE" value="123" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/pythonProject3$Sber_sms_in.coverage" NAME="Sber_sms_in Coverage Results" MODIFIED="1697019537189" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lib" />
